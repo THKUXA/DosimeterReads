@@ -1,4 +1,4 @@
-#REQUIRES "@react-three/fiber" & "@react-three/drei"
+# REQUIRES "@react-three/fiber" & "@react-three/drei"
 
 # How to Implement:
     - Import component from 'pages/components/Graph/Graph.tsx' and then place it wherever desired 
